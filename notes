@@ -1,0 +1,12 @@
+git init > t initialize git for version control
+
+
+staging area > a intermediate place were you can pick and choose which files insdeite dir you want to commit 
+>git status
+
+>git add file.txt : add to staging area
+
+>git commit -m "Initial commit"
+Try to use present tense 
+
+>git log
